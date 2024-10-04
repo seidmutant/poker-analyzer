@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output files
+poker_cards_output.txt
+
+# Virtual environment
+outspeed_env/
+
+# IDE and editor files (optional, but commonly included)
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files (optional, but commonly included)
+.DS_Store
+Thumbs.db
